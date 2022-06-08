@@ -13,7 +13,7 @@ Data from : https://www.kaggle.com/competitions/pubg-finish-placement-prediction
 Who? : 문석민, 오세연, 윤상현, 진승범, 최윤아
 
 
-### Daily Records
+## Daily Records
 **07Jun_01.ipynb**
 - 6/7 To do
    * Obj columns만 날리고, 러프하게 돌려보기
