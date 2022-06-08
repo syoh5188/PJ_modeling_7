@@ -1,7 +1,7 @@
 # PJ_modeling_7
 yeardream 2nd, offline group 7, Mini Project - Modeling
 
-##Topic & Data : PUBG Finish Placement Prediction
+## Topic & Data : PUBG Finish Placement Prediction
 Data from : https://www.kaggle.com/competitions/pubg-finish-placement-prediction/data
 - sample_submission.csv
 - test_V2.csv
