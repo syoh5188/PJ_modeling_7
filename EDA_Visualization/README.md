@@ -12,6 +12,7 @@ yeardream 2nd, offline group 7, Mini Project - Modeling
    - revives
    - DBNO's
 
-- Tried to understand features
-- Tried to anaysis features with various way
-- Tried to use many visualization method
+### Main Topic for EDA & Visualization
+* Tried to understand features
+* Tried to anaysis features with various way
+* Tried to use many visualization method
