@@ -9,3 +9,8 @@ yeardream 2nd, offline group 7, Mini Project - Modeling
 - Random Forest
 
 
+## Main Topics
+- Practice models
+- Can describe about the models
+- Try to understand the models
+- Try to understand attirbutes of models
