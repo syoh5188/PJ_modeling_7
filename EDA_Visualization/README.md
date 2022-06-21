@@ -1,5 +1,6 @@
 # EDA & Visualization
 yeardream 2nd, offline group 7, Mini Project - Modeling
+2022-06-07 ~ 2022-06-21
 
 ### Choosed main Features 
 오세연의 담당 features : 
